@@ -1,1 +1,36 @@
-    
+# Diário de Bordo do Projeto – Princípios da Programação II
+
+**Disciplina:** Princípios da Programação II
+**Professora:** Dr. Adriana
+
+## Dia 18
+
+Nesta etapa inicial, foi definido o problema que seria trabalhado ao longo do projeto e criada a persona principal. O problema identificado está relacionado à dificuldade de organizar e calcular corretamente o bônus de funcionários utilizando planilhas.
+
+A persona criada foi **Josefino Nonato**, um usuário que utiliza Excel para organizar informações dos funcionários, porém encontra dificuldades para calcular os bônus de forma clara e eficiente. Com o aumento dos dados e das regras de cálculo, o processo se torna confuso, aumentando as chances de erros e dificultando a análise das informações.
+
+***
+
+## Dias 20–23
+
+O foco dessa etapa foi estruturar a base necessária para o desenvolvimento da solução. Foram criadas as tabelas que serviriam como fundamento do problema proposto.
+
+Para alimentar essas tabelas, foram utilizadas informações fictícias geradas com apoio de Inteligência Artificial, permitindo a construção de uma base de dados adequada para testes e simulações. A partir disso, iniciou-se o desenvolvimento do código responsável pelo tratamento dos dados e pela lógica de cálculo do sistema.
+
+***
+
+###  Dia 25
+
+Foi realizada a preparação dos slides para a primeira apresentação do projeto. Nessa etapa, foram organizados os principais pontos desenvolvidos até o momento, incluindo a contextualização do problema, a definição da persona, a construção da base de dados e o progresso do desenvolvimento do código.
+
+***
+
+###  Progresso Atual
+
+* Definição do problema
+* Criação da persona (Josefino Nonato)
+* Estruturação das tabelas
+* Construção da base de dados fictícia
+* Desenvolvimento inicial do código
+* Preparação dos slides da primeira apresentação
+* Continuação do desenvolvimento e melhorias futuras no projeto (atualmente)
