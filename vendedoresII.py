@@ -171,6 +171,7 @@ class GerenciadorVendas:
         return f"GerenciadorVendas({len(self)} vendedores carregados)"
 
     def carregar_dados(self, arq_vendas: str, arq_produtos: str, arq_vendedores: str):
+        self.__vendedores = []
         df_vendas    = pd.read_excel(arq_vendas,     engine="openpyxl").rename(columns={"vendedores": "vendedor"})
         df_produtos  = pd.read_excel(arq_produtos,   engine="openpyxl")
         df_vendedores = pd.read_excel(arq_vendedores, engine="openpyxl").rename(columns={"eletronicos": "setor"})
@@ -221,6 +222,8 @@ class GerenciadorVendas:
 # ══════════════════════════════════════════════════════════════
 # 5. EXECUÇÃO
 # ══════════════════════════════════════════════════════════════
+
+
 if __name__ == "__main__":
 
     gerenciador = GerenciadorVendas()
